@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap4_weblayout_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "purgecss --css css/custom.css --content index.html -o css/reducido.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D4niel0/bootstrap4_webLayout_testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D4niel0/bootstrap4_webLayout_testing/issues"
+  },
+  "homepage": "https://github.com/D4niel0/bootstrap4_webLayout_testing#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
